@@ -7,9 +7,9 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Adams Analytics Group  
+
+hero_media: Alleles1.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,8 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+Genomics | Data Science |  Bioinformatics
+
+*We study molecules, models, & machines*
+![Pan](Pan01.jpg)

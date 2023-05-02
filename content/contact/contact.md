@@ -9,49 +9,55 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Join us!
+
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: adamsrh@uark.edu
+#  phone: XXX
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: Agricultural Annex 104 (Agricultural Statistics Laboratory)
+    city: Fayetteville
+    region: AR
+    postcode: '72703'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '36.0698'
+    longitude: '-94.1729'
+  directions: Enter AGRX and take the hallway on the left (sign pointing to AGRX104)
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+    - 'office hours: by appointment'
+    - ''
+  appointment_url: 'adamsrh@uark.edu'
 
   # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
 design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+![Pan](Pan01.jpg)
+
+We are actively recruited undergraduate and graduate-level researchers to join our team. 
+
+__Students can choose programs in__:  
+__Cell and Molecular Biology__ (CEMB; https://cell.uark.edu)  
+__Statistics and Analytics__ (STAN; https://statistics-analytics.uark.edu)  
+__Entomology and Plant Pathology__ (ENPL; https://enpl.uark.edu)  
+
+
+__Interested in any/all of the following? We have a project for you!__  
+Genomes? Molecular Evolution?  
+Biology? Mathematics?  
+Insects? Computers?  
+Statistics? Data Science?  
+Machine Learning? Artificial Intelligence?  
+Evolution? Speciation?  
+Genomics? Population Genetics?
+
+Contact us here:

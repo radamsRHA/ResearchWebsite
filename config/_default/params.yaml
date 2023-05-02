@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: my_theme
   theme_night:
   font: native
   font_size: L
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Genomes | Data | Evolution'
+    twitter: 'XXX'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,19 +41,11 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2, 2022'
   time_format: '3:04 PM'
   address_format: en-us
 

@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - GCSU Researchers
     - Grad Students
     - Administration
     - Visitors
@@ -27,3 +28,4 @@ design:
   show_role: true
   show_social: true
 ---
+
